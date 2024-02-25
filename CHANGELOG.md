@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/kuantachen/release-workshop/compare/v1.1.0...v1.2.0) (2024-02-25)
+
+
+### Bug Fixes
+
+* merge conflict ([da3e864](https://github.com/kuantachen/release-workshop/commit/da3e86493c2d0480f04f65294a72f1fec34c4327))
+
+
+### Features
+
+* add message in description ([27158a6](https://github.com/kuantachen/release-workshop/commit/27158a6cbeb268738c1f1e2da48cd4917f0090bb))
+
 # [1.1.0](https://github.com/kuantachen/release-workshop/compare/v1.0.0...v1.1.0) (2024-02-25)
 
 
