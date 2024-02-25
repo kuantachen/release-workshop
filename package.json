@@ -1,0 +1,19 @@
+{
+  "name": "release-workshop",
+  "version": "0.0.0",
+  "description": "release-workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuantachen/release-workshop.git"
+  },
+  "author": "Jacky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuantachen/release-workshop/issues"
+  },
+  "homepage": "https://github.com/kuantachen/release-workshop#readme"
+}
