@@ -1,7 +1,7 @@
 {
   "name": "release-workshop",
   "version": "1.0.0",
-  "description": "release-workshop new feature",
+  "description": "release-workshop add message",
   "main": "index.js",
   "scripts": {
     "test": "jest",
